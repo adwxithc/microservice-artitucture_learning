@@ -1,0 +1,17 @@
+.form-group{
+    background-color: rgba(190, 0, 190, 0.236);
+    border: 2px solid rgba(128, 0, 128, 0.451);
+    /* padding:  2rem 30%; */
+    padding: 2rem;
+    
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px 10px rgba(255, 255, 255, 0.312);
+}
+input{
+    width:70%;
+    border-radius:25px;
+}
+button{
+    border-radius:25px;
+    
+}
